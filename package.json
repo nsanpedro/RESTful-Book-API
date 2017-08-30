@@ -1,0 +1,24 @@
+{
+  "name": "restwebservices",
+  "version": "0.0.1",
+  "description": "json",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "node",
+    "web",
+    "services"
+  ],
+  "author": "Nico San Pedro",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^4.11.7"
+  }
+}
